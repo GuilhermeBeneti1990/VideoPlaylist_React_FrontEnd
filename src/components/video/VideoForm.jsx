@@ -6,7 +6,7 @@ const initialState = {
 }
 
 // Local: http://localhost:3001/videos
-const baseUrl = 'https://videoplaylist-b.herokuapp.com/videos'
+const baseUrl = 'https://videoplaylist-b.herokuapp.com/'
 
 export default class VideoForm extends Component {
 
