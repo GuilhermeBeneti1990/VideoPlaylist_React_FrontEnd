@@ -22,8 +22,7 @@ const customStyles = {
 
 Modal.setAppElement(document.getElementById('root'))
 
-// Local: http://localhost:3001/videos
-const baseUrl = 'https://videoplaylist-b.herokuapp.com/videos'
+const baseUrl = 'http://localhost:3001/videos'
 
 export default class VideoList extends Component {
 

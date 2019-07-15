@@ -14,8 +14,7 @@ const headerProps = {
     subtitle: 'Playlist'
 }
 
-// Local: http://localhost:3001/videos
-const baseUrl = 'https://videoplaylist-b.herokuapp.com/videos'
+const baseUrl = 'http://localhost:3001/videos'
 
 const initialState = {
     list: [],
